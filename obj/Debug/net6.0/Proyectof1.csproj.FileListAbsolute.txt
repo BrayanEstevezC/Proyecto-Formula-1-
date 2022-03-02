@@ -1,0 +1,15 @@
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\bin\Debug\net6.0\Proyectof1.exe
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\bin\Debug\net6.0\Proyectof1.deps.json
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\bin\Debug\net6.0\Proyectof1.runtimeconfig.json
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\bin\Debug\net6.0\Proyectof1.dll
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\bin\Debug\net6.0\ref\Proyectof1.dll
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\bin\Debug\net6.0\Proyectof1.pdb
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.csproj.AssemblyReference.cache
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.AssemblyInfoInputs.cache
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.AssemblyInfo.cs
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.csproj.CoreCompileInputs.cache
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.dll
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\ref\Proyectof1.dll
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.pdb
+C:\Users\Braya\source\repos\Proyectof1\Proyectof1\obj\Debug\net6.0\Proyectof1.genruntimeconfig.cache
